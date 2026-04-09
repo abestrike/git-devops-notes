@@ -1,2 +1,5 @@
 Day 1:
 Learning Git locally
+
+Day 2:
+Understanding git add and commit
