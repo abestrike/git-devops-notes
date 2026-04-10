@@ -3,3 +3,6 @@ Learning Git locally
 
 Day 2:
 Understanding git add and commit
+
+Day 3:
+Hey i did branching for the first time 
