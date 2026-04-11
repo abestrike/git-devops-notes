@@ -5,4 +5,8 @@ Day 2:
 Understanding git add and commit
 
 Day 3:
+<<<<<<< HEAD
 Understanding git basics (master version)
+=======
+Understanding git deeply (branch version)
+>>>>>>> conflict-branch
