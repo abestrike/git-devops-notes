@@ -10,3 +10,6 @@ Understanding git basics (master version)
 =======
 Understanding git deeply (branch version)
 >>>>>>> conflict-branch
+
+Day 4:
+Working on UI improvements
